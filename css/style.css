@@ -1,0 +1,50 @@
+/* Utilities */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1000px;
+    margin: auto;
+}
+
+.float{
+    float: left;
+}
+/* header */
+
+#header{
+    height: 100px;
+    background-color: rosybrown;
+    margin-bottom: 20px;
+}
+/* main */
+
+/* #maincontent{
+    height: 500px;
+    background-color: sandybrown;
+    margin-bottom: 20px;
+}
+
+#sectionheader{
+    height: 50px;
+    background-color: dodgerblue;
+    margin-bottom: 20px
+}
+
+.sidebar{
+    width:20%;
+    height: 500px;
+    background-color: dodgerblue;
+}
+
+.centerbox{
+    width:calc(60% - 15px);
+    height:500px;
+    background-color: rosybrown;
+    margin: 0 15px;
+} */
+        
