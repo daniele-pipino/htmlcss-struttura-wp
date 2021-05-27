@@ -50,7 +50,12 @@ body{
 .centerbox{
     width:calc(60% - 30px);
     height:500px;
-    background-color: rosybrown;
+    background-color: dodgerblue;
     margin: 0 15px;
 }
-        
+/* footer */
+#footer{
+    height: 50px;
+    background-color: darkviolet;
+    margin-top: 10px;
+}
