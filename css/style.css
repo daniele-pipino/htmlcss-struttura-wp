@@ -14,6 +14,12 @@ body{
 .float{
     float: left;
 }
+
+.clearfix::after{
+    content: '';
+    display: table;
+    clear: both;
+}
 /* header */
 
 #header{
@@ -29,7 +35,7 @@ body{
     margin-bottom: 20px;
 }
 
-/* #sectionheader{
+#sectionheader{
     height: 50px;
     background-color: dodgerblue;
     margin-bottom: 20px
@@ -42,9 +48,9 @@ body{
 }
 
 .centerbox{
-    width:calc(60% - 15px);
+    width:calc(60% - 30px);
     height:500px;
     background-color: rosybrown;
     margin: 0 15px;
-} */
+}
         
