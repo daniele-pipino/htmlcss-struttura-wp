@@ -23,13 +23,13 @@ body{
 }
 /* main */
 
-/* #maincontent{
+#maincontent{
     height: 500px;
     background-color: sandybrown;
     margin-bottom: 20px;
 }
 
-#sectionheader{
+/* #sectionheader{
     height: 50px;
     background-color: dodgerblue;
     margin-bottom: 20px
